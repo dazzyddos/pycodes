@@ -1,3 +1,5 @@
+# Usage: ./reverse_ip.py <site>
+# Example: ./reverse_ip.py facebook.com
 import requests
 import socket
 import sys
